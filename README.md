@@ -1,2 +1,2 @@
 # plungepool
-Landing page for a custom font
+Landing page for a custom font.
